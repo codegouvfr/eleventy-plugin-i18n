@@ -1,3 +1,6 @@
+***Disclaimer :** Ce fork est publié sur npm dans le "scope" de l'organisation `@codegouvfr` (`@codegouvfr/eleventy-plugin-i18n`) en attendant que la [PR associée](https://github.com/adamduncan/eleventy-plugin-i18n/pull/28) soit fusionnée dans le dépôt principal.
+C'est cette version qui est utilisée par [codegouvfr-website](https://github.com/codegouvfr/codegouvfr-website) et [eleventy-dsfr](https://github.com/codegouvfr/eleventy-dsfr).*
+
 # eleventy-plugin-i18n
 
 [Eleventy](https://www.11ty.dev/) plugin to assist with internationalization and dictionary translations.
